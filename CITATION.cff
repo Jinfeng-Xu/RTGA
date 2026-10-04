@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use RTGA, please cite the accompanying manuscript and this software."
+title: "RTGA: Risk-triggered guarded adaptation for MLIP-driven molecular dynamics"
+version: 0.1.0
+date-released: 2026-10-04
+authors:
+  - family-names: "Xu"
+    given-names: "Jinfeng"
+license: MIT
+
